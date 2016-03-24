@@ -1,0 +1,7 @@
+{
+  "name": "Sisnotificacao Getting Started",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/horacioibrahim/sisnotifica_hotsite",
+  "logo": "http://github.com/horacioibrahim/sisnotifica_hotsite/public/logo-sisnotificacao.png",
+  "keywords": ["node", "express", "static", "serpro", "supgs", "sisnotificacao"],
+}

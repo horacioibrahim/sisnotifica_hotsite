@@ -1,0 +1,81 @@
+body {
+    font-family: Roboto;
+}
+.jumbotron {
+  background: #FB455C;
+  color: white;
+  padding-bottom: 80px; }
+  .jumbotron .btn-primary {
+    background: #FFD42A;
+    border-color: #EABD0C; }
+    .jumbotron .btn-primary:hover {
+      background: rgba(255,212,42,0.86); }
+  .jumbotron p {
+    color: rgba(255,255,255,0.54);
+    max-width: 75%;
+    margin: 1em auto 2em; }
+  .navbar + .jumbotron {
+    margin-top: -20px; }
+  .jumbotron .lang-logo {
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 0px solid white; }
+    .jumbotron .lang-logo img {
+      margin-top: 15px;
+      max-width: 80%; }
+.jumbotron .signboard {
+    font-style: italic;
+}
+
+.caller {
+    text-align: left;
+    display: inline-block;
+    border-bottom: 5px solid #FB455C;
+    width:200px;      
+}
+.subtitles {
+    margin-top: 60px;
+    text-transform: uppercase;
+    color: rgba(0,0,0, 0.86);
+    line-height: 26px;
+    letter-spacing: 2px;
+}
+ul {
+    list-style-type: none;
+}
+ul.news {
+    margin-top: 60px;
+    color: rgba(0,0,0, 0.54);
+    font-size: 19px;
+    line-height: 21px;
+}
+ul.news li {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.footer {
+    margin-top: 80px;
+    background: rgb(44,44,44);
+    color: rgba(255,255,255,1);
+}
+.footer h4 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.footer ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+.footer img {
+    margin-left: 40px;
+}
+.footer .column {
+    padding: 40px;
+}
